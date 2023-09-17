@@ -70,6 +70,8 @@ Web 3.0 | Blockchain Developer | Mysql Database Administrator
   
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Dennis-DW&theme=transparent" alt="Dennis Wambua" />
 
+----------------
+
 <b>Top Languages</b>
 
 [![Top Langs](https://github-readme-stats-blindbanditbmc.vercel.app/api/top-langs/?username=Dennis-DW&layout=compact&show_icons=true&theme=transparent&langs_count=6)](https://github.com/Dennis-DW/github-readme-stats)
