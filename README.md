@@ -4,7 +4,7 @@
 My name is Dennis Wambua
 ====================================================================================================================================
 
-Blockchain Developer | Mysql Database Administrator 
+Web 3.0 | Blockchain Developer | Mysql Database Administrator 
 -----------------
 
 <div align="center">
