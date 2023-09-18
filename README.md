@@ -60,7 +60,7 @@ Web 3.0 | Blockchain Developer | Mysql Database Administrator
 
   -----------------
 
-### :fire: My Stats
+### :fire: My Stats:
 
 <a href="https://github.com/craigouma">
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=Dennis-DW&show_icons=true&theme=transparent" alt="Wambuas' GitHub stats" />
@@ -73,7 +73,7 @@ Web 3.0 | Blockchain Developer | Mysql Database Administrator
 
 ----------------
 
-<b>Top Languages</b>
+<b>Top Languages:</b>
 
 [![Top Langs](https://github-readme-stats-blindbanditbmc.vercel.app/api/top-langs/?username=Dennis-DW&layout=compact&show_icons=true&theme=transparent&langs_count=6)](https://github.com/Dennis-DW/github-readme-stats)
 
