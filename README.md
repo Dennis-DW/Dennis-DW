@@ -48,6 +48,7 @@ Web 3.0 | Blockchain Developer | Mysql Database Administrator
 
 <div align="center">
   <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://www.mysql.com/common/logos/logo-mysql-170x115.png" width="36" height="36" alt="MySQL" /></a>
+  <a href="https://soliditylang.org/" target="_blank" rel="noreferrer"><img src="https://www.logo.wine/a/logo/Solidity/Solidity-Logo.wine.svg" width="36" height="36" alt="Solidty" /></a>
   <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
   <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
   <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
