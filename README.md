@@ -4,7 +4,7 @@
 My name is Dennis Wambua
 ====================================================================================================================================
 
-Web 3.0 | Blockchain Developer | Mysql Database Administrator 
+Web 3.0 | Blockchain Developer | Linux Administrator 
 -----------------
 <img src="https://wakatime.com/badge/user/2c133a45-3a76-4464-b94e-4a43b7a0be67.svg" alt="Total time coded since Sep 9 2023" /></a>
 
