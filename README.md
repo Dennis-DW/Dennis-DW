@@ -70,4 +70,11 @@
   </a>
 </div>
 
+<!-- WakaTime Badge -->
+<div align="center">
+  <a href="https://wakatime.com/@2c133a45-3a76-4464-b94e-4a43b7a0be67" target="_blank">
+    <img src="https://wakatime.com/badge/user/2c133a45-3a76-4464-b94e-4a43b7a0be67.svg" alt="Total time coded since Sep 9 2023" />
+  </a>
+</div>
+
 
