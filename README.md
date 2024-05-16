@@ -3,7 +3,7 @@
 
 # Hi there, I'm Dennis Wambua! 👋
 
-## Web 3.0 | Frontend Developer 
+## Web Developer | Frontend Developer | Mobile Developer
 -----------------
 
 <div align="center">
@@ -14,7 +14,7 @@
 
 - 🌍 Based in Nairobi, Kenya.
 - ✉️ Contact me at [denny012dw@gmail.com](mailto:denny012dw@gmail.com).
-- 🧠 Currently learning Solidity.
+- 🧠 Currently learning React Native.
 - 🤝 Open to collaborating on open-source projects.
 
 ### :hammer_and_wrench: Languages and Tools
@@ -25,6 +25,14 @@
   <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="Ubuntu" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+</div>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/React_Native-%23000000.svg?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" />
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/Refine-%238E44AD.svg?style=for-the-badge" alt="Refine" />
+  <img src="https://img.shields.io/badge/Material_UI-%230081CB.svg?style=for-the-badge&logo=material-ui&logoColor=white" alt="Material-UI" />
+  <img src="https://img.shields.io/badge/MongoDB-%234EA94B.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
 </div>
 
 <div align="center">
@@ -76,5 +84,6 @@
     <img src="https://wakatime.com/badge/user/2c133a45-3a76-4464-b94e-4a43b7a0be67.svg" alt="Total time coded since Sep 9 2023" />
   </a>
 </div>
+
 
 
