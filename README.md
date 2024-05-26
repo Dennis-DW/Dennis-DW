@@ -108,7 +108,7 @@
 
 <div align="center">
   <a href="https://github.com/Dennis-DW">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis-DW&layout=compact&show_icons=true&theme=dark&langs_count=6" alt="Top Languages" />
+    <img width="600" height="220" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dennis-DW&layout=compact&show_icons=true&theme=dark&langs_count=6" alt="Top Languages" />
   </a>
 </div>
 
