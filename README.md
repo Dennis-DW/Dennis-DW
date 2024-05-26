@@ -89,7 +89,7 @@
 
 <div align="center">
   <a href="https://github.com/Dennis-DW">
-    <img width="600" height="250"src="https://github-readme-stats.vercel.app/api?username=Dennis-DW&show_icons=true&theme=dark&width=600&height=250" />
+    <img src="https://github-readme-stats.vercel.app/api?username=Dennis-DW&show_icons=true&theme=dark&width=600&height=250" />
   </a>
 </div>
 
