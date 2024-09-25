@@ -3,7 +3,7 @@
 
 # Hi there, I'm Dennis Wambua! 👋
 
-## Web Developer | Frontend Developer | Mobile Developer
+## Web developer | Blockchain enthusiast | Mobile developer
 -----------------
 
 <div align="center">
