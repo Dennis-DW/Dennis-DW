@@ -12,11 +12,11 @@
 
 ## 👨‍💻 About Me
 <div align="justify">
-  - 🌍 Based in Nairobi, Kenya.                                           
-  - ✉️ Contact me at [denny012dw@gmail.com](mailto:denny012dw@gmail.com).
-  - 🧠 Currently learning React Native.
-  - 🤝 Open to collaborating on open-source projects.
-  - Tweaking this README for optimal engagement.
+  - 🌍 Based in Nairobi, Kenya. <br>                                          
+  - ✉️ Contact me at denny012dw@gmail.com.<br>   
+  - 🧠 Currently learning React Native.<br>   
+  - 🤝 Open to collaborating on open-source projects.<br>   
+  - Tweaking this README for optimal engagement.<br>   
 </div>
 
 ## :hammer_and_wrench: Languages and Tools
